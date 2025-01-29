@@ -1,0 +1,1 @@
+This error occurs when using Expo CLI with a project that has an unusual file structure or dependencies.  It might manifest as cryptic error messages during build or start, often related to unexpected file paths or missing modules, even if the project seems to be properly configured.
